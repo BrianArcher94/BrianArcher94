@@ -1,4 +1,6 @@
-## Hi there 👋
+# Brian Archer
+**A passionate Power Platform, M365, and Azure Solution Builder**
+
 
 <!--
 **BrianArcher94/BrianArcher94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
